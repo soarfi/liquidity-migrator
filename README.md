@@ -1,4 +1,4 @@
-# liquidity-migrator
+# Liquidity Migrator
 
 The Liquidity Migrator is a smart contract that allows seamlessly swapping the liquidity from one pool to another. 
 
